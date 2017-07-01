@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  calculator
 //
-//  Created by BSW123 on 14/06/17.
-//  Copyright © 2017 BSW123. All rights reserved.
+//  Created by 001vrn on 14/06/17.
+//  Copyright © 2017 001vrn. All rights reserved.
 //
 
 import UIKit
